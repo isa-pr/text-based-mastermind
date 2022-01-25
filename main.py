@@ -1,7 +1,7 @@
 '''
-Conanan, Lanz Anjelo L. - 2021-02338 - T4
-Felipe, Joshua L. - 2021-11579 - T4
-Padua, Maria Isabel - 2013-14838 - T4
+Conanan, L <redacted>
+Felipe, J <redacted>
+Padua, Isa (that's me)
 '''
 
 """
