@@ -1,5 +1,5 @@
 # text-based-mastermind
-Text-based implementation of the game Mastermind
+A text-based implementation of the game Mastermind
 
 Submitted as a final project for CS 11 Introduction to Programming
 A group project worked on by 3 people, 2 with programming background and myself with programming and design background
